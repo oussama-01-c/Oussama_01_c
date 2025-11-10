@@ -7,7 +7,7 @@
 
 ## Summary
 
-Motivated student focused on C and C++ with emphasis on low-level programming, memory management, and algorithms. Committed to writing clean, efficient, and well-documented code through practical projects.
+Motivated student focused on C and C++ with emphasis on Near-expert-level programming, memory management, and algorithms. Committed to writing clean, efficient, and well-documented code through practical projects.
 
 ---
 
@@ -25,12 +25,12 @@ Motivated student focused on C and C++ with emphasis on low-level programming, m
 ### File Management Program (C)
 
 Command-line tool for creating, reading, and editing text files; demonstrates pointers and memory handling.
-Repository: `https://githud.example/your-username/project-files-manager`❌
+Repository: `https://githud.example/your-username/project-files-manager`
 
 ### Algorithms & Data Structures Library (C/C++)
 
 Implemented sorting and searching algorithms and basic data structures with performance tests.
-Repository: `https://githud.example/your-username/project-algorithms`❌
+Repository: `https://githud.example/your-username/project-algorithms`
 
 ---
 
